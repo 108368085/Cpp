@@ -9,5 +9,5 @@ git push -u origin main
 之後添加打以下指令打在WindoewsCMD : 
 git add .
 git status
-git commit -m "a"
+git commit -m "可以跳過"
 git push -u origin main
