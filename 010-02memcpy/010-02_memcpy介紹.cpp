@@ -16,7 +16,7 @@ int main() {
 	//const char * sou2 = new char[11];
 	//char temp2[11];
 	//const char * sou3 = temp2;
-	///const char * sou4 = sou2;
+	///const char * sou4 = sou2;                        0
 
 /* 	
 	char wordA[11];
