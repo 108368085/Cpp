@@ -23,6 +23,16 @@ int main() {
 	cout<<s2<<endl;         // 123
 	string s3 = s2 + "@";   // 123@
 	cout<<s3<<endl;
+
+	//自寫字元轉數字 , 0=48 , A=65 , a=97
+	/* int i;
+	s2 = "0Aa";
+	for (i=0; i<=2; i++)
+	{
+		int z = s2[i]; // 48 ,65 ,97
+		cout<<z<<" " ; 
+	} */
+
  	
 
 	return 0;

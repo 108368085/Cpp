@@ -44,7 +44,7 @@ int main() {
 
 
 	// From video 010-10  , 字串的插入、刪除、取代與搜尋
-	/* 
+	
 	string s1 = "1245";
 	cout<<s1.insert(2, "3")<<endl; // 12345 , insert是將第二號元素插入3
 	s1.append(s1.insert(2, "3"));  // 將第二號元素插入3再放到最後面
@@ -57,14 +57,14 @@ int main() {
 	cout<<s1<<endl; 		// 123346745
 
 	size_t st = s1.find("3"); // 找出字串s1裡面的3在幾號元素
-	cout<<st<<endl;
+	cout<<st<<endl; // 2
 
 	st = s1.find("88");
-	cout<<st<<endl;
+	cout<<st<<endl; // 字串裡面沒有"88" , 所以出現亂碼
 	if(st == string::npos){			// PS : string::npos代表沒有找到的意思
 		cout<<"Not Found."<<endl;
 	}
-	 */
+	
 
 
 	// From video 010-11  , 將Java改成C++後置入陣列  
@@ -97,14 +97,14 @@ int main() {
 	// 自寫複習 substr  ,
 	// s1.substr(x,y)表將第x個編號至y個字串陣列做切割
 	// int compare (const string& str) const; 與 str 比大小 , 正值、零、負值分別代表大於、等於、小於。
-	
+	/* 
 	string s1 = "I love C++.";
 	string s2 = s1.substr(2, 4); // 指定元素位置與切割長度
 	string s3 = s1.substr(2); 	 // 指定元素位置 未指定切割長度, 則會列印出後面整個字串
 	cout<<s2<<endl; 			 // love
 	cout<<s3<<endl; 			 // love C++.
 	cout<<s1.compare("z")<<endl; // -1  , 比較s1與z的第一個字母大小 
- 	
+ 	 */
 	
 
 	/* 

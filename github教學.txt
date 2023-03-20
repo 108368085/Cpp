@@ -1,4 +1,4 @@
-第一次添加照打以下指令 :
+第一次添加前開WindoewsCMD，照打以下指令 :
 git init
 git add .
 git commit -m "first commit"
@@ -6,7 +6,7 @@ git branch -M main
 git remote add origin https://github.com/108368085/cpp.git
 git push -u origin main
 
-之後添加打以下指令 : 
+之後添加打以下指令打在WindoewsCMD : 
 git add .
 git status
 git commit -m ""

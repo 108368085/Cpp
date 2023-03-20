@@ -4,8 +4,11 @@ using namespace std;
 
 
 int main() {
-	/*
-	char wordA[11];
+	
+	/* 
+	char wordA[11];	// Error : 字元宣告時就要給定初始值 
+	wordA = "123";
+	
 	char wordB[11] = {'1','2','3'};
 	char wordC[11] = "12345";
 	char wordD[] = "12345";
@@ -13,17 +16,17 @@ int main() {
 	cout<<wordB<<endl;
 	cout<<wordC<<endl;
 	cout<<wordD<<endl;
-	*/
+	 */
 
 
-	/*
-	char * wordA;
+	/* 
+	char * wordA;  // Error : 字元指標宣告時需要給定記憶體size  
 	char * wordB = "12345";
 	char * wordC = new char[11];
 	cout<<wordA<<endl;
 	cout<<wordB<<endl;
 	cout<<wordC<<endl;
-	*/
+	 */
 
 
 	/* size_t strlen(const char * str)  API*/    
@@ -47,7 +50,7 @@ int main() {
 
 	int a = 0;
 	memcpy(&a, wordA + 1, 1);
-	cout<<a<<endl;			// 50
+	cout<<a<<endl;			// 50 , Ascii : Char-2 is number 50(Decminal) 
 	cout<<wordA[2]<<endl;	// 3
  	
 	
@@ -55,7 +58,7 @@ int main() {
     // 字元指標也可以單獨列印
 	char * abc = new char[10];
 	strcpy(abc , "12345");
-	printf("%d\n" , abc[0]);	 // 49
+	printf("%d\n" , abc[0]);	 // 49 , Ascii : Char-1 is number 49(Decminal) 
 	cout<< strlen(abc) << endl;  // 5
 	 */
 
