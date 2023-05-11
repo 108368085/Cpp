@@ -10,5 +10,5 @@ git push -u origin main
 cd C:\Users\user\Cpp
 git add .
 git status
-git commit -m "可以跳過"
+git commit -m "Push"
 git push -u origin main
