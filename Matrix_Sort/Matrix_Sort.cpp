@@ -59,7 +59,7 @@ int main(){
     {
         int temp = matrix[i][0];
         matrix[i][0] = matrix[i][2];
-        matrix[i][2] = temp;
+        matrix[i][2] = temp; //
     }
 
     // After
