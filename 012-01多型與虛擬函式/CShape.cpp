@@ -1,9 +1,4 @@
-/*
- * CShape.cpp
- *
- *  Created on: 2021�~11��26��
- *      Author: yuyun
- */
+
 #include "iostream"
 using namespace std;
 #include "CShape.h"

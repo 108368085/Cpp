@@ -7,6 +7,7 @@ git remote add origin https://github.com/108368085/cpp.git
 git push -u origin main
 
 之後添加打以下指令打在WindoewsCMD : 
+cd C:\Users\user\Cpp
 git add .
 git status
 git commit -m "可以跳過"
