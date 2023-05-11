@@ -25,6 +25,7 @@ void showArea(CShape * pcr){
 }
 int main() {
 	
+	/* Override 父類別宣告的虛擬函式*/
 	CCircle c;
 	c.setRadius(100);
 	CShape * pcs = &c;
@@ -37,16 +38,15 @@ int main() {
 	pcs->showInfo(); // 56088 , 1158
 	
 
-	/* 	
 	CCircle cc;
 	cc.setRadius(123);
 	CRectangle cr;
 	cr.setValues(12 , 3);
 	showArea(&cc); // 47505.1
 	showArea(&cr); // 36
-	 */
+	
 
-	/* 
+	
 	CCircle c;
 	c.setRadius(100);
 	CShape * pcs = &c;
@@ -56,7 +56,7 @@ int main() {
 	CRectangle cr;
 	cr.setValues(10, 8);
 	cout<<cr.getArea()<<endl;   // 80
-	 */
+	
 
 	/*
 	CShape * array[5];
