@@ -17,7 +17,7 @@ int main(){
     // ios::sync_with_stdio(0), cin.tie(0);
 
         /* 交換列 (升冪排序) */
-    vector<vector<int>> v{{5, 2, 0},
+    vector<vector<int>> v{{5, 2, 0},  // Given a matrix
                           {7, 4, 0},
                           {4, 8, 7}};
 

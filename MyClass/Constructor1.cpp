@@ -7,18 +7,19 @@ class Line
    public:
       void setLength( double len );
       double getLength( void );
-      Line(int a)
+
+      Line(int a) // 這是構造函數聲明
       {
         length = a;
-      }  // 这是构造函数声明
-      
-      ~Line();  // 这是析构函数声明
+      }          
+   
+      ~Line();    // 這是析構函數聲明
  
    private:
       double length;
 };
  
-// 成员函数定义，包括构造函数
+// 成員函數定義，包括構造函數
 // Line::Line(void)
 // {
 //     cout << "Object is being created" << endl;
@@ -38,12 +39,12 @@ double Line::getLength( void )
 {
     return length;
 }
-// 程序的主函数
+
 int main( )
 {
    Line line(3);
  
-   // 设置长度
+   
 //    line.setLength(6.0); 
    cout << "Length of line : " << line.getLength() <<endl;
 
