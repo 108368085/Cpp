@@ -2,6 +2,7 @@ class Shape{
 	int area;
 	int girth;
 protected:
+	int test_Protected;
 	void setArea(int a);
 	void setGirth(int g);
 public :

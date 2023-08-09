@@ -2,7 +2,6 @@
 #include <cstring>
 using namespace std;
 
-
 int main() {
 	
 	/* 
@@ -37,13 +36,11 @@ int main() {
 	const char * str = wordA;
 	*/
 
-
 	/*
 	char wordA[1111] = "12345";
 	const char * str = wordA;
 	*/
 
-	
 	char wordA[] = "12345";
 	int st = strlen(wordA);
 	cout<<st<<endl; // 5
@@ -53,7 +50,6 @@ int main() {
 	cout<<a<<endl;			// 50 , Ascii : Char-2 is number 50(Decminal) 
 	cout<<wordA[2]<<endl;	// 3
  	
-	
 	/* 
     // 字元指標也可以單獨列印
 	char * abc = new char[10];
