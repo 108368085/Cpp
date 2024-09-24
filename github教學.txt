@@ -12,3 +12,8 @@ git add .
 git status
 git commit -m "Push"
 git push -u origin main
+
+刪除檔案教學:
+git rm <namefile.txt>
+git status
+git commit -m "Remove jpg"
