@@ -1,0 +1,106 @@
+請幫我準備一下以下幾個問題的答案，主管可能問到：
+一. 為什麼想離開現在公司？
+我不排斥任何能夠讓我成長的求職機會
+I don't reject any job opportunities that allow me to grow.
+
+
+二. 大學是念化工，為何大學念化工後來轉EE ?
+1. 希望在不同的領域有知識上的延伸，進而找到自己的興趣在電資方面，後來也透過家人支持繼續研讀電子碩士。
+2. 這之中的困難怎麼克服?
+3. 首先基本功的部分每天花了很多時間補足
+4. 碩士上課的缺席率非常低，很認真的完成學業
+5. 有不懂的地方馬上找教授討論，教授也都很肯教
+I hope to expand my knowledge in different fields, and then find my own interest in electricity, and then continue to study for a master's degree in electronics through the support of my family.
+2. How to overcome the difficulties?
+3. First of all, I spend a lot of time every day to make up for the basic skills. 
+4. The absence rate of the master’s class is very low, and I finish my studies very seriously.
+5. If there is something you don’t understand, immediately discuss it with the professor, and the professor is very willing to teach.
+
+三. 問技術問題/白板題－問到不會或是難回答或是不熟悉題目，就說目前是受限於公司產品+公司組織安排，比較不熟悉XXX技術或產品，但我過往專業經驗，但是我知道....，我相信我會很快上手。(誠實為上，會多少就講多少)
+
+四. 過往遇到工作挑戰及問題？然後怎麼解決？(一定要舉例)
+可以切3個方向：
+a. 技術/產品面
+b. 內部合作溝通（包含同事，跨部門，主管等等）
+c. 外部客戶溝通
+
+五. 有跨國跨team合作經驗？(外商大廠一定問) 
+
+1. 你覺得AE 吸引你的地方？
+2. 我期望在伺服器電源上的技術希望能夠繼續精進
+3. 我希望能夠進到外商的環境，語言能夠更加進步
+4. 我希望WORK LIFE BALANCE，Local公司的環境，不是長期職涯上好的選擇
+I hope to continue to improve the technology of server power supply. 
+and I hope to enter the environment of foreign companies, and the language can be improved. 
+I like WORK LIFE BALANCE, the environment of Local company, is not a good choice for long-term career.
+
+六. 未來加入AE有甚麼規劃？短中長期? 
+Ans : 短期內先適應公司內部文化,作業流程,co work方式 ＋滿足目前工作內容需求盡快上手，長期則是想要有技術跟職涯發展，跟AE一起成長。
+In the short-term goals, adapt to the company's internal culture, standard operating procedures, and cross-departmental co-work methods to meet the needs of the current work content and get started as soon as possible. The long-term plan is to improve technology and career development and grow together with AE.
+
+七.這幾個月工作上有碰到什麼困難嗎？
+9.這幾個月有看哪些工作機會？
+10.有面試哪些公司？
+
+八. 薪資預期部分：一般公司是10~15%,  最低預期：不要比現在月薪+年薪低。
+九. 如果薪水不能到你的期待薪資還想加入嗎？
+我希望能夠和我預期的薪資不要差太多，如果主管願意的話我覺得10~15%，offer拿到後20~30天可以上班。
+I hope that the salary will not be too different from my expected salary. If the supervisor is willing, I think it will be 10~15%, and I can go to work 20~30 days after I get the offer.
+
+十. 通勤的距離可接受嗎？
+AE通勤地點進捷運站，我住板橋，可以搭捷運
+然後我覺得我還年輕，距離不會是換工作的最大考量。
+The AE commuting place enters the MRT station. 
+I live in Banqiao and can take the MRT. 
+Then I think I am still young, and distance will not be the biggest consideration for changing jobs.
+
+14. 記得問人資或用人主管幾個問題（1_2個問題即可）例如 希望這個位置目前的工作內容細節或是以後公司的規劃？進而在去延伸1~2個問題。
+
+11. 通常HR+用人主管喜歡
+1. 喜歡經驗分享，重視細節。
+2. 面試請正式穿著，即使線上面試也是一樣辦理+喜歡謙虛+有禮貌的人。
+3. 不要矯情，不要說來奉獻工作。
+重點：humble但有自信，又不能笨拙
+
+1.請問您覺得外商與台商在文化上有哪些地方不同？
+What do you think are the cultural differences between foreign businesses and Taiwanese businesses?
+
+2.當加入Artesyn時，您對候選人期待他們必須具備哪些人格特質？
+What personality traits do you expect candidates to have when joining Artesyn?
+
+
+提問 :
+範例1 : 這個工作職缺是新開設的還是原職位上的人離職了呢？
+範例2 : 請問這份工作需要具備哪些核心能力，關於這個崗位，之後工作內容會是什麼？ 
+範例3 : 您會如何形容公司的文化和團隊的工作氛圍？
+範例4 : 我目前的年薪，其中包含三節獎金、車資補貼、固定兩個月的年終，以及一季發放一次的績效獎金，加班費另計。所以，想了解一下貴公司的薪資結構包含哪些？
+範例5 : 我過去的單位偶爾會加班，不過我能理解工作難免需要，所以想了解一下目前單位同事們的工作時間，以及加班頻率？
+
+---------------------------------------------------------------------------------------
+自我介紹
+
+我叫陳昭銘，畢業於台北科技大學電子工程系，並獲得碩士學位。
+
+在學期間，我專注無線通訊系統的研究，撰寫了有關5G通訊技術的碩士論文，累積了扎實的通信理論和實務經驗。
+我的研究使我對無線通信系統的運作原理、網路架構及數據傳輸有了深入的理解，並且在這過程中培養了對新興技術的濃厚興趣。
+
+目前，我在光寶科技擔任FW RD工程師，我主要參與的專案使用C語言撰寫電源架構, 負責AC到DC的能源轉換以及MCU之間的通訊系統。
+
+在這個職位中, 我擁有豐富的MCU嵌入式系統開發經驗，熟悉程式設計與調試，並能夠在多變的工作環境中靈活應對挑戰。
+此外，我具備良好的團隊合作精神，能夠在跨部門合作中發揮溝通協調的作用，並持續學習新技術，提升自我能力。
+
+我對貴公司的技術與發展方向深感興趣，並希望能夠將我的專業知識與經驗貢獻給貴公司。我相信，憑藉我的背景與能力，我能夠為團隊帶來價值，並在未來的工作中讓自己不斷成長。
+
+
+中翻英自我介紹 : 
+My name is Chiu-Ming Chen. I graduated from the Department of Electrical Engineering, Taipei University of Technology with a Master's degree.
+
+During my study, I focused on the research of wireless communication systems and wrote my master's thesis on 5G communication technology, accumulating solid communication theory and practical experience.
+My research has given me an in-depth understanding of the operation principles, network architecture and data transmission of wireless communication systems, and I have developed a strong interest in emerging technologies in the process.
+
+Currently, I am working as a FW RD Engineer at Lite-On Technology, where I am mainly involved in the project of writing power architectures in C language, responsible for AC to DC energy conversion and communication system between MCUs.
+
+In this position, I have rich experience in MCU embedded system development, familiar with program design and debugging, and able to flexibly respond to challenges in a changing work environment.
+In addition, I have good teamwork spirit, can play the role of communication and coordination in cross-departmental cooperation, and continue to learn new technologies to improve my ability.
+
+I am deeply interested in your company's technology and development direction, and would like to contribute my professional knowledge and experience to your company. I believe that with my background and ability, I can bring value to the team and grow myself in the future.
