@@ -99,7 +99,8 @@ During my study, I focused on the research of wireless communication systems and
 
 My research has given me an in-depth understanding of the operation principles, network architecture and data transmission of wireless communication systems, and I have developed a strong interest in emerging technologies in the process.
 
-Currently, I am working as a FW RD Engineer at Lite-On Technology, I mainly use C language to write my projects for power architectures, and I am mainly responsible for the AC to DC energy conversion and the communication system between the MCUs.
+Currently, I am working as a FW RD Engineer at Lite-On Technology, I mainly use C language to write my projects for power architectures, and I
+responsible for the AC to DC energy conversion and the communication system between the MCUs.
 
 In this position, I have rich experience in MCU embedded system development, familiar with program design and debugging, and able to flexibly respond to challenges in a changing work environment.
 
